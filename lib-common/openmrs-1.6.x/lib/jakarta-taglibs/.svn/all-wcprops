@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/14227/openmrs-modules/conceptmanagement/trunk/lib-common/openmrs-1.6.x/lib/jakarta-taglibs
+END
+taglibs-request-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/14227/openmrs-modules/conceptmanagement/trunk/lib-common/openmrs-1.6.x/lib/jakarta-taglibs/taglibs-request-1.1.jar
+END
+taglibs-page-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/14227/openmrs-modules/conceptmanagement/trunk/lib-common/openmrs-1.6.x/lib/jakarta-taglibs/taglibs-page-1.1.jar
+END
+taglibs-response-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/14227/openmrs-modules/conceptmanagement/trunk/lib-common/openmrs-1.6.x/lib/jakarta-taglibs/taglibs-response-1.1.jar
+END
+taglibs-standard-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/14227/openmrs-modules/conceptmanagement/trunk/lib-common/openmrs-1.6.x/lib/jakarta-taglibs/taglibs-standard-1.1.jar
+END

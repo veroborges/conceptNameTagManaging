@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/21290/openmrs-modules/conceptmanagement/trunk/metadata
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/18086/openmrs-modules/conceptmanagement/trunk/metadata/messages.properties
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/21290/openmrs-modules/conceptmanagement/trunk/metadata/config.xml
+END
+sqldiff.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/13627/openmrs-modules/conceptmanagement/trunk/metadata/sqldiff.xml
+END
+messages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/18086/openmrs-modules/conceptmanagement/trunk/metadata/messages_de.properties
+END
+moduleApplicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/15403/openmrs-modules/conceptmanagement/trunk/metadata/moduleApplicationContext.xml
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/19832/openmrs-modules/conceptmanagement/trunk/metadata/log4j.xml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/21290/openmrs-modules/conceptmanagement/trunk
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/18086/openmrs-modules/conceptmanagement/trunk/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/13627/openmrs-modules/conceptmanagement/trunk/.project
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/21290/openmrs-modules/conceptmanagement/trunk/build.xml
+END

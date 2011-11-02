@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/14227/openmrs-modules/conceptmanagement/trunk/lib-common/openmrs-1.6.x/lib/benerator
+END
+databene-benerator-0.5.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/14227/openmrs-modules/conceptmanagement/trunk/lib-common/openmrs-1.6.x/lib/benerator/databene-benerator-0.5.5.jar
+END
+databene-commons-0.4.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/14227/openmrs-modules/conceptmanagement/trunk/lib-common/openmrs-1.6.x/lib/benerator/databene-commons-0.4.5.jar
+END
+databene-webdecs-0.4.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/14227/openmrs-modules/conceptmanagement/trunk/lib-common/openmrs-1.6.x/lib/benerator/databene-webdecs-0.4.5.jar
+END

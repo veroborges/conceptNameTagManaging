@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/14227/openmrs-modules/conceptmanagement/trunk/lib-common/openmrs-1.6.x/lib/slf4j
+END
+jcl-over-slf4j-1.5.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/14227/openmrs-modules/conceptmanagement/trunk/lib-common/openmrs-1.6.x/lib/slf4j/jcl-over-slf4j-1.5.6.jar
+END
+slf4j-log4j12-1.5.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/14227/openmrs-modules/conceptmanagement/trunk/lib-common/openmrs-1.6.x/lib/slf4j/slf4j-log4j12-1.5.6.jar
+END
+slf4j-api-1.5.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/14227/openmrs-modules/conceptmanagement/trunk/lib-common/openmrs-1.6.x/lib/slf4j/slf4j-api-1.5.6.jar
+END

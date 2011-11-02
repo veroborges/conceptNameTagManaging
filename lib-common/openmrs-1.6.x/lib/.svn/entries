@@ -1,0 +1,173 @@
+10
+
+dir
+24216
+http://svn.openmrs.org/openmrs-modules/conceptmanagement/trunk/lib-common/openmrs-1.6.x/lib
+http://svn.openmrs.org
+
+
+
+2010-07-07T10:13:15.674837Z
+14227
+maltef
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5bac5841-c719-aa4e-b3fe-cce5062f897a
+
+stax
+dir
+
+ant-contrib
+dir
+
+cglib
+dir
+
+benerator
+dir
+
+commons-pool
+dir
+
+xstream
+dir
+
+commons-collections
+dir
+
+tomcat
+dir
+
+simple
+dir
+
+commons-lang
+dir
+
+commons-fileupload
+dir
+
+spring-framework
+dir
+
+velocity
+dir
+
+lib.properties
+file
+
+
+
+
+2011-11-01T14:36:06.000000Z
+f9e5557fced5c4bcfac7543e2c0072e7
+2010-07-07T10:13:15.674837Z
+14227
+maltef
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4018
+
+c3p0
+dir
+
+liquibase
+dir
+
+commons-digester
+dir
+
+antlr
+dir
+
+asm
+dir
+
+commons-io
+dir
+
+ehcache
+dir
+
+slf4j
+dir
+
+mail
+dir
+
+hl7api
+dir
+
+poi
+dir
+
+saxon
+dir
+
+junit
+dir
+
+xerces
+dir
+
+jakarta-log4j
+dir
+
+dwr
+dir
+
+commons-beanutils
+dir
+
+jakarta-taglibs
+dir
+
+hibernate
+dir
+
+mysql-connector-java
+dir
+
+jstl
+dir
+
+jfreechart
+dir
+
+dom4j
+dir
+
+jta
+dir
+

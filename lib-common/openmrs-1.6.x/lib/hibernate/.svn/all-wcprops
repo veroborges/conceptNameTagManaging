@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/14227/openmrs-modules/conceptmanagement/trunk/lib-common/openmrs-1.6.x/lib/hibernate
+END
+hibernate.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/14227/openmrs-modules/conceptmanagement/trunk/lib-common/openmrs-1.6.x/lib/hibernate/hibernate.patch
+END
+hibernate325-mod.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/14227/openmrs-modules/conceptmanagement/trunk/lib-common/openmrs-1.6.x/lib/hibernate/hibernate325-mod.jar
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/14227/openmrs-modules/conceptmanagement/trunk/lib-common/openmrs-1.6.x/lib/hibernate/readme.txt
+END

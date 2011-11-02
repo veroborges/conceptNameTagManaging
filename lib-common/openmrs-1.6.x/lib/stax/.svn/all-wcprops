@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/14227/openmrs-modules/conceptmanagement/trunk/lib-common/openmrs-1.6.x/lib/stax
+END
+stax-1.2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/14227/openmrs-modules/conceptmanagement/trunk/lib-common/openmrs-1.6.x/lib/stax/stax-1.2.0.jar
+END
+stax-api-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/14227/openmrs-modules/conceptmanagement/trunk/lib-common/openmrs-1.6.x/lib/stax/stax-api-1.0.1.jar
+END
