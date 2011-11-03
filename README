@@ -1,0 +1,33 @@
+Added functionality to the "advanced concept management" module:
+
+1. Added a Manage Concept Name Tags link to the concepts section of the admin page
+2. Added the Manage Concept Name Tag page, which lists existing ConceptNameTags, and lets you add/delete them.
+3. Added the New Concept Name Tag page, which hold the form for creating name tags
+4. Added the back-end purge concept name tag functionality to the concept search service. 
+
+
+Files modified:
+
+//Views and controllers for the manage concept name tag page
+conceptnametaglist.jsp 
+conceptnametagform.jsp 
+conceptnametagformcontroller.java
+conceptnametaglistcontroller.java
+
+//Added the purge concept name tag functionality
+conceptsearchservice.java
+conceptsearchserviceimpl.java
+conceptsearchdao.java
+hibernateconceptsearchdao.java
+
+//adding metadata strings constants
+messageproperties
+messages_de.properties
+
+//Added the "Manage Concept Name Tag" link to the Concept Section in the Admin Page
+config.xml
+conceptListExt.java
+
+//Added routes - i.e the link "conceptnametag.form" redirects to "conceptnametagform" wich on submit/success redirects to "conceptnametaglist"
+moduleApplicationContext.xml
+
